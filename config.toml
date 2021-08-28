@@ -1,0 +1,49 @@
+baseURL      = 'titovcode.com'
+defaultContentLanguage = 'ru'
+title        = 'Dmitry Titov'
+theme        = "hello-friend-ng"
+
+[params]
+  homeSubtitle = "Инженер-программист"
+  enableSharingButtons = true
+  EnableGlobalLanguageMenu = true
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/korableg/"
+
+[[params.social]]
+  name = "email"
+  url = "mailto:dim@titovcode.com"
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/dmitry-titov-94276459/"
+
+[[params.social]]
+  name = "instagram"
+  url = "https://www.instagram.com/korableg/"
+
+[[params.social]]
+  name = "hackerrank"
+  url = "https://www.hackerrank.com/titov_de/"
+
+[languages]
+
+  [languages.en]
+    title = "Dmitry Titov"
+    homeSubtitle = "Software Engineer"
+    weight = 1
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name       = "About"
+      url        = "/about"
+    
+  [languages.ru]
+    title = "Дмитрий Титов"
+    homeSubtitle = "Инженер-программист"
+    weight = 2
+    [[languages.ru.menu.main]]
+      identifier = "about"
+      name       = "Обо мне"
+      url        = "/about"

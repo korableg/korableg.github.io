@@ -3,14 +3,35 @@ defaultContentLanguage = 'ru'
 title        = 'Dmitry Titov'
 theme        = "hello-friend-ng"
 
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
+
+[author]
+  name = "Dmitry Titov"
+
 [params]
   homeSubtitle = "Инженер-программист"
   enableSharingButtons = true
   EnableGlobalLanguageMenu = true
+  enableThemeToggle = false
 
 [params.logo]
   logoMark = "["
   logoText = "titovcode.com ]$"
+
+[params.footer]
+    trademark = true
+    rss = false
+    copyright = false
+    author = true
+
+    topText = []
+    bottomText = []
 
 [[params.social]]
   name = "github"
@@ -38,6 +59,10 @@ theme        = "hello-friend-ng"
     title = "Dmitry Titov"
     homeSubtitle = "Software Engineer"
     weight = 1
+    # [[languages.en.menu.main]]
+    #   identifier = "posts"
+    #   name       = "Posts"
+    #   url        = "posts/"
     [[languages.en.menu.main]]
       identifier = "about"
       name       = "About"
@@ -47,7 +72,13 @@ theme        = "hello-friend-ng"
     title = "Дмитрий Титов"
     homeSubtitle = "Инженер-программист"
     weight = 2
+    # [[languages.ru.menu.main]]
+    #   identifier = "posts"
+    #   name       = "Статьи"
+    #   url        = "posts/"
     [[languages.ru.menu.main]]
       identifier = "about"
       name       = "Обо мне"
       url        = "/about"
+
+    

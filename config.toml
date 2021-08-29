@@ -1,4 +1,4 @@
-baseURL      = 'titovcode.com'
+baseURL      = 'https://titovcode.com'
 defaultContentLanguage = 'ru'
 title        = 'Dmitry Titov'
 theme        = "hello-friend-ng"
@@ -16,8 +16,7 @@ theme        = "hello-friend-ng"
   name = "email"
   url = "mailto:dim@titovcode.com"
 
-[[params.social]]
-  name = "linkedin"
+[[params.social]]titovcode
   url = "https://www.linkedin.com/in/dmitry-titov-94276459/"
 
 [[params.social]]

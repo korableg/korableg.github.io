@@ -8,6 +8,10 @@ theme        = "hello-friend-ng"
   enableSharingButtons = true
   EnableGlobalLanguageMenu = true
 
+[params.logo]
+  logoMark = "["
+  logoText = "titovcode.com ]$"
+
 [[params.social]]
   name = "github"
   url = "https://github.com/korableg/"

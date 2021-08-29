@@ -21,6 +21,7 @@ theme        = "hello-friend-ng"
   url = "mailto:dim@titovcode.com"
 
 [[params.social]]
+  name = "linkedin"
   url = "https://www.linkedin.com/in/dmitry-titov-94276459/"
 
 [[params.social]]

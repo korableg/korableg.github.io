@@ -1,4 +1,4 @@
-baseURL      = 'korableg.github.io'
+baseURL      = 'titovcode.com'
 defaultContentLanguage = 'ru'
 title        = 'Dmitry Titov'
 theme        = "hello-friend-ng"

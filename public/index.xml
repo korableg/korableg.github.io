@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dmitry Titov</title>
-    <link>localhost/</link>
-    <description>Recent content on Dmitry Titov</description>
+    <title>Дмитрий Титов</title>
+    <link>https://titovcode.com/</link>
+    <description>Recent content on Дмитрий Титов</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://titovcode.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ар</title>
+      <link>https://titovcode.com/posts/migrer-vers-hugo-depuis-jekyll/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://titovcode.com/posts/migrer-vers-hugo-depuis-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Обо мне</title>
+      <link>https://titovcode.com/about/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://titovcode.com/about/</guid>
+      <description>Меня зовут Дмитрий Титов. Я инженер-программист. Ранее я занимался автоматизацией производственных предприятий, сегодня я - backend developer в одной прекрасной компании.
+Golang :hearth:</description>
+    </item>
+    
   </channel>
 </rss>

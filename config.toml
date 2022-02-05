@@ -10,6 +10,7 @@ buildDrafts  = false
 buildFuture  = false
 buildExpired = false
 canonifyURLs = true
+enableEmoji = true
 
 [author]
   name = "Dmitry Titov"
@@ -67,6 +68,10 @@ canonifyURLs = true
       identifier = "about"
       name       = "About"
       url        = "/about"
+    [[languages.en.menu.main]]
+      identifier = "links"
+      name       = "Useful links"
+      url        = "/links"
     
   [languages.ru]
     title = "Дмитрий Титов"
@@ -80,5 +85,7 @@ canonifyURLs = true
       identifier = "about"
       name       = "Обо мне"
       url        = "/about"
-
-    
+    [[languages.ru.menu.main]]
+      identifier = "links"
+      name       = "Полезные ссылки"
+      url        = "/links"

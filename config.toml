@@ -51,6 +51,10 @@ enableEmoji = true
   url = "https://www.instagram.com/korableg/"
 
 [[params.social]]
+  name = "telegram"
+  url = "https://t.me/korableg"
+
+[[params.social]]
   name = "hackerrank"
   url = "https://www.hackerrank.com/titov_de/"
 

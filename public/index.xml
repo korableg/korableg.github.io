@@ -13,7 +13,7 @@
       
       <guid>https://titovcode.com/links/</guid>
       <description>В данной коллекции ссылки, которые как я считаю являются весьма полезными для разработчиков на Go
- https://dave.cheney.net/practical-go/presentations/qcon-china.html очень полезная статья, обозревает многие нюансы и принципы Методические рекомендации по написанию Go кода от Uber  </description>
+ https://dave.cheney.net/practical-go/presentations/qcon-china.html очень полезная статья, обозревает многие нюансы и принципы Методические рекомендации по написанию Go кода от Uber https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html Статья от программиста с восьми летним опытом о написании http сервисов.  </description>
     </item>
     
     <item>

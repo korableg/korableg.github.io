@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://titovcode.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Полезные ссылки</title>
+      <link>https://titovcode.com/links/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://titovcode.com/links/</guid>
+      <description>В данной коллекции ссылки, которые как я считаю являются весьма полезными для разработчиков на Go
+ https://dave.cheney.net/practical-go/presentations/qcon-china.html очень полезная статья, обозревает многие нюансы и принципы Методические рекомендации по написанию Go кода от Uber  </description>
+    </item>
+    
+    <item>
       <title>Ар</title>
       <link>https://titovcode.com/posts/migrer-vers-hugo-depuis-jekyll/</link>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
@@ -22,7 +32,7 @@
       
       <guid>https://titovcode.com/about/</guid>
       <description>Меня зовут Дмитрий Титов. Я инженер-программист. Ранее я занимался автоматизацией производственных предприятий, сегодня я - backend developer в одной прекрасной компании.
-Golang :hearth:</description>
+Golang ❤️</description>
     </item>
     
   </channel>

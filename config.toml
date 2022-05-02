@@ -18,8 +18,14 @@ enableEmoji = true
 [params]
   homeSubtitle = "Backend developer"
   enableSharingButtons = true
+
   EnableGlobalLanguageMenu = true
   enableThemeToggle = false
+
+[params.portrait]
+  path = "/assets/avatar.png"
+  alt = "It's me"
+
 
 [params.logo]
   logoMark = "["

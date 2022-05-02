@@ -16,7 +16,7 @@ enableEmoji = true
   name = "Dmitry Titov"
 
 [params]
-  homeSubtitle = "Инженер-программист"
+  homeSubtitle = "Backend developer"
   enableSharingButtons = true
   EnableGlobalLanguageMenu = true
   enableThemeToggle = false
@@ -47,10 +47,6 @@ enableEmoji = true
   url = "https://www.linkedin.com/in/dmitry-titov-94276459/"
 
 [[params.social]]
-  name = "instagram"
-  url = "https://www.instagram.com/korableg/"
-
-[[params.social]]
   name = "telegram"
   url = "https://t.me/korableg"
 
@@ -62,7 +58,7 @@ enableEmoji = true
 
   [languages.en]
     title = "Dmitry Titov"
-    homeSubtitle = "Software Engineer"
+    homeSubtitle = "Backend developer"
     weight = 1
     # [[languages.en.menu.main]]
     #   identifier = "posts"
@@ -79,7 +75,7 @@ enableEmoji = true
     
   [languages.ru]
     title = "Дмитрий Титов"
-    homeSubtitle = "Инженер-программист"
+    homeSubtitle = "Backend developer"
     weight = 2
     # [[languages.ru.menu.main]]
     #   identifier = "posts"

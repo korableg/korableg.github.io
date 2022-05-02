@@ -1,21 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Дмитрий Титов</title>
-        <link>https://titovcode.com/posts/</link>
-        <description>Recent content in Posts on Дмитрий Титов</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://titovcode.com/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Ар</title>
-            <link>https://titovcode.com/posts/migrer-vers-hugo-depuis-jekyll/</link>
-            <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://titovcode.com/posts/migrer-vers-hugo-depuis-jekyll/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Posts on Дмитрий Титов</title>
+    <link>https://titovcode.com/posts/</link>
+    <description>Recent content in Posts on Дмитрий Титов</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://titovcode.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ар</title>
+      <link>https://titovcode.com/posts/migrer-vers-hugo-depuis-jekyll/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://titovcode.com/posts/migrer-vers-hugo-depuis-jekyll/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
